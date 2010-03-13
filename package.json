@@ -1,0 +1,10 @@
+{
+    "name": "fsevents",
+    "author": "Chandler Kent (http://www.chandlerkent.com/)",
+    "description": "An implementation of fsevents (http://github.com/ymendel/fsevents) for Javascript.",
+    "keywords": [
+        "fsevent",
+        "fsevents"
+    ],
+    "version": "0.1"
+}
